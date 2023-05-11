@@ -66,6 +66,7 @@ html {
 
   input[type="number"]:focus {
     outline: none;
+    overflow-x: hidden;
   }
   
   .space-between {
