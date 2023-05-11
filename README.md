@@ -1,4 +1,5 @@
 # Tip Calculator JavaScript
- Calculadora de tips usando JS, HTML e CSS
+  
+A simple tip calculator using JS, HTML e CSS
 
 https://dedezera.github.io/Tip-Calculator-JavaScript/
